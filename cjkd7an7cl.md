@@ -1,1 +1,1 @@
-I created a new repository 
+I created a new repository on Github
