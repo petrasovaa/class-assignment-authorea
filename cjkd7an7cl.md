@@ -1,4 +1,4 @@
-It is often very useful to edit a document offline, for example in a plane, or if you want to think your changes through and you don't want to make them visible to your collaborators as you type. In that case
+It is often very useful to edit a document offline, for example in a plane, or if you want to think your changes through and you don't want to make them visible to your collaborators as you type. In that case, 
 These are the steps to use Authorea and GitHub together:
 
 1. I created a new repository on Github:
