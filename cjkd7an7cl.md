@@ -8,4 +8,4 @@ https://github.com/petrasovaa/class-assignment-authorea and created README.md fi
 1. Still in GitHub I copied the SSH URL of the repository (not the HTTPS) and pasted it into appropriate field in Authorea GitHub settings.
 1. Then I copied the webhook URL from Authorea and in GitHub repository settings I added it to _Webhooks_ section. I pasted there the URL and kept the rest as is it was.
 1. Back in Authorea, I kept the branches as they were suggested.
-2. 
+1. 
