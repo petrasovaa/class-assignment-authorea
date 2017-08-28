@@ -10,4 +10,4 @@ https://github.com/petrasovaa/class-assignment-authorea and created README.md fi
 1. Back in Authorea, I kept the branches as they were suggested. You can change the names of the main branch and the branch used when conflict happens.
 1. Finally submit and add this point it sould start to syncronize.
 
-As you can see when you look into the history of my repository, as I type, changes are pushed to GitHub. The history is not very useful to review in this case since it pushes really small changes very often. It also must be said, I had 
+As you can see when you look into the history of my repository, as I type, changes are pushed to GitHub. The history is not very useful to review in this case since it pushes really small changes very often. It also must be said, I had problems 
