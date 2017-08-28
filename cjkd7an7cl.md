@@ -12,4 +12,4 @@ https://github.com/petrasovaa/class-assignment-authorea and created README.md fi
 
 As you can see when you look into the history of my repository, as I type, changes are pushed to GitHub. The history is not very useful to review in this case since it pushes really small changes very often. It also must be said, I had problems in the beginning to set up this connection, because Authorea was complaining about merge conflicts, but that was later resolved, probably by creating a file in the repository.
 
-Generally, the GitHub integration with Overleaf is much smoother, so for La
+Generally, the GitHub integration with Overleaf is much smoother, so for LaT
