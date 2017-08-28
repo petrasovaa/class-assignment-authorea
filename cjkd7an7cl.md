@@ -1,4 +1,4 @@
-It is often very useful to edit a document offline, for example in a plane, or if you want to think your changes through and you don't want to make them visible to your collaborators as you type. In that case, we can use Authorea and GitHub together. These are the steps 
+It is often very useful to edit a document offline, for example in a plane, or if you want to think your changes through and you don't want to make them visible to your collaborators as you type. In that case, we can use Authorea and GitHub together. These are the steps for setting
 
 1. I created a new repository on Github:
 https://github.com/petrasovaa/class-assignment-authorea and created README.md file. I first tried without any file, but it the connection was not working, although I am not sure that was the problem.
