@@ -5,4 +5,4 @@ https://github.com/petrasovaa/class-assignment-authorea and created README.md fi
 1. Then in Authorea I clicked on the gear symbol on rhe right and selected GitHub.
 1. At this point you can setup GiHub integration automatically, but I wanted to have the integration under my control, so I chose the manual setup.
 1. I first generated SSH key pair. A dialog opened and I copied the public key and in the Settings of the new GitHub repository I selected _Deploy key_ and added new key, where I copied the Authorea generated public key.
-1. Still in GitHub I copied the SSH URL of the repository (not the HTTPS) and pasted it into appropriate field in Authorea Gitub 
+1. Still in GitHub I copied the SSH URL of the repository (not the HTTPS) and pasted it into appropriate field in Authorea Gitub se
