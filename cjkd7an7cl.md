@@ -1,4 +1,4 @@
-These are the steps to use Authorea and GitHub together:
+It is These are the steps to use Authorea and GitHub together:
 
 1. I created a new repository on Github:
 https://github.com/petrasovaa/class-assignment-authorea and created README.md file. I first tried without any file, but it the connection was not working, although I am not sure that was the problem.
